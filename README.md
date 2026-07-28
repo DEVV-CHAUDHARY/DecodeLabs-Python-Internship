@@ -15,4 +15,4 @@ This repository contains all the projects completed during my Python Programming
 
 ## Author
 
-Devesh Chaudhary
+Devesh Singh
