@@ -1,23 +1,18 @@
-# Project 1 - To-Do List
+# DecodeLabs Python Internship
 
-A simple Python To-Do List application where users can:
+This repository contains all the projects completed during my Python Programming Internship at DecodeLabs.
 
-- Add Tasks
-- View Tasks
-- Exit Program
+## Projects
 
-## Technologies
+### Project 1 - To-Do List
+- Language: Python
+- Concepts Used:
+  - Lists
+  - Loops
+  - Functions
+  - User Input
+  - Menu Driven Program
 
-- Python
+## Author
 
-## Concepts Used
-
-- Lists
-- append()
-- for loop
-- Functions
-- Input/Output
-
-## Output
-
-A menu-driven To-Do List application.
+Devesh Chaudhary
